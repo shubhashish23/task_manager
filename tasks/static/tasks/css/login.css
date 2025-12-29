@@ -1,0 +1,72 @@
+/* Card */
+.auth-container {
+    max-width: 360px;
+    margin: 90px auto;
+    padding: 28px 26px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+}
+
+/* Title */
+.auth-container h2 {
+    text-align: center;
+    margin-bottom: 22px;
+    font-size: 22px;
+    color: #111827;
+}
+
+/* Inputs */
+#loginForm input {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 14px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    outline: none;
+}
+
+#loginForm input:focus {
+    border-color: #2563eb;
+}
+
+/* Button */
+#loginForm button {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#loginForm button:hover {
+    background: #1e40af;
+}
+
+/* Error message */
+#error {
+    margin-top: 12px;
+    color: #dc2626;
+    font-size: 14px;
+    text-align: center;
+}
+
+/* Register link */
+.auth-link {
+    margin-top: 18px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.auth-link a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+.auth-link a:hover {
+    text-decoration: underline;
+}

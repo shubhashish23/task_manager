@@ -1,0 +1,100 @@
+{% extends "tasks/base.html" %}
+{% load static %}
+{% block title %} {% if task_id %}Edit Task{% else %}Create Task{% endif %}  {% endblock title %}
+{% block extracss %}<link rel="stylesheet" href="{% static "tasks/css/form.css" %}">{% endblock extracss %}
+
+{% block content %}
+<br><br>
+<div class="task-form-container">
+    <h2>{% if task_id %}Edit Task{% else %}Create Task{% endif %}</h2>
+
+    <form id="taskForm">
+        {% csrf_token %}
+
+        <input type="text" id="title" placeholder="Title" required>
+        <textarea id="description" placeholder="Description"></textarea>
+        <input type="date" id="due_date">
+
+        <select id="status">
+            <option value="Pending">Pending</option>
+            <option value="In Progress">In Progress</option>
+            <option value="Completed">Completed</option>
+        </select>
+
+        <button type="submit">Save</button>
+    </form>
+
+    <a href="{% url 'tasks:task_list' %}" class="back-link">← Back</a>
+</div>
+
+<script>
+    const taskId = "{{ task_id|default:'' }}";
+
+    console.log("task_form.js loaded");
+
+    $("#taskForm").submit(function (e) {
+        e.preventDefault();
+        console.log("Form submit intercepted");
+
+        const isEdit = taskId && taskId !== "";
+        const url = isEdit ? `/api/tasks/${taskId}/` : "/api/tasks/";
+        const method = isEdit ? "PUT" : "POST";
+
+        console.log("API URL:", url);
+        console.log("Method:", method);
+
+        $.ajax({
+            url: url,
+            type: method,
+            contentType: "application/json",
+            headers: {
+                "X-CSRFToken": $("input[name=csrfmiddlewaretoken]").val()
+            },
+            data: JSON.stringify({
+                title: $("#title").val(),
+                description: $("#description").val(),
+                due_date: $("#due_date").val(),
+                status: $("#status").val()
+            }),
+            success: function (res) {
+                console.log("SUCCESS:", res);
+                window.location.href = "/";
+            },
+            error: function (xhr) {
+                console.log("ERROR STATUS:", xhr.status);
+                console.log("ERROR RESPONSE:", xhr.responseText);
+                alert("Task save failed");
+            }
+        });
+    });
+
+    $(document).ready(function () {
+
+        if (!taskId) {
+            console.log("Create mode – no preload needed");
+            return;
+        }
+
+        console.log("Edit mode – fetching task:", taskId);
+
+        $.ajax({
+            url: `/api/tasks/${taskId}/`,
+            type: "GET",
+            success: function (task) {
+                console.log("Task fetched:", task);
+
+                $("#title").val(task.title);
+                $("#description").val(task.description);
+                $("#due_date").val(task.due_date);
+                $("#status").val(task.status);
+            },
+            error: function (xhr) {
+                console.error("Failed to preload task", xhr.responseText);
+                alert("Failed to load task data");
+            }
+        });
+
+    });
+</script>
+
+{% endblock content %}

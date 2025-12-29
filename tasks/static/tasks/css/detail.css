@@ -1,0 +1,115 @@
+
+.page_content{
+    padding-top: 4rem;
+    width: 100vw;
+    overflow-y: auto;
+}
+
+/* Page container */
+.task-detail-container {
+    max-width: 520px;
+    margin: 50px auto;
+    padding: 24px 28px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Title */
+.task-title {
+    font-size: 22px;
+    margin-bottom: 18px;
+    color: #111827;
+}
+
+/* Info section */
+.task-info p {
+    font-size: 15px;
+    margin: 10px 0;
+    color: #374151;
+}
+
+.task-info span:first-child {
+    font-weight: 600;
+    color: #111827;
+    margin-right: 6px;
+}
+
+/* Status badge */
+.status-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    background: #fef3c7;
+    color: #92400e;
+}
+
+/* Actions row */
+.task-actions {
+    margin-top: 22px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+/* Buttons */
+.btn {
+    padding: 8px 14px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.1s ease, background 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+}
+
+/* Delete */
+.btn-danger {
+    background: #ef4444;
+    color: white;
+}
+
+.btn-danger:hover {
+    background: #dc2626;
+}
+
+/* Complete */
+.btn-success {
+    background: #22c55e;
+    color: white;
+}
+
+.btn-success:hover {
+    background: #16a34a;
+}
+
+/* Edit link */
+.edit-link {
+    color: #2563eb;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.edit-link:hover {
+    text-decoration: underline;
+}
+
+/* Back link */
+.back-link {
+    display: inline-block;
+    margin-top: 24px;
+    font-size: 14px;
+    color: #2563eb;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,113 @@
+{% extends "tasks/base.html" %}
+{% load static %}
+{% block title %} Task List {% endblock title %}
+{% block extracss %}<link rel="stylesheet" href="{% static "tasks/css/list.css" %}">{% endblock extracss %}
+
+{% block content %}
+
+<div class="page_content">
+    <header>
+        <h2>My Tasks</h2>
+        <div class="club_items">
+            <select class="filter_css" id="statusFilter">
+                <option value="">All</option>
+                <option value="Pending">Pending</option>
+                <option value="In Progress">In Progress</option>
+                <option value="Completed">Completed</option>
+            </select>
+            <a class="create_button_css" href="{% url 'tasks:task_add' %}">➕ Create Task</a>
+        </div>
+    </header>
+
+
+    <br><br>
+
+  
+
+    <div id="loader">Loading...</div>
+
+    <ul id="taskList" class="task_list_css"></ul>
+
+    <button class="button-style" id="loadMore">Load More</button>
+    <br>
+</div>
+
+
+<script>
+    {% comment %} $("#logoutBtn").click(function(){
+    $.ajax({
+        url: "/api/auth/logout/",
+        type: "POST",
+        headers: {
+            "X-CSRFToken": $("input[name=csrfmiddlewaretoken]").val()
+        },
+        success: function(){
+            window.location.href = "/login/";
+        },
+        error: function(){
+            alert("Logout failed");
+        }
+    });
+}); {% endcomment %}
+
+    let page = 1;
+
+    function loadTasks(reset = false) {
+        if (reset) {
+            $("#taskList").empty();
+            page = 1;
+        }
+
+        $("#loader").show();
+
+        $.ajax({
+            url: "/api/tasks/",
+            type: "GET",
+            data: {
+                status: $("#statusFilter").val(),
+                page: page
+            },
+            success: function (tasks) {
+                $("#loader").hide();
+
+                if (tasks.length === 0 && page === 1) {
+                    $("#taskList").append("<li>No tasks found</li>");
+                    return;
+                }
+
+                tasks.forEach(task => {
+                    $("#taskList").append(`
+                        <li>
+                            <strong><a href="/task/${task.id}/">${task.title}</a></strong>
+                            <br>${task.description || ""}
+                            <br>Status: ${task.status}
+                            <br>Due: ${task.due_date || "-"}
+                            <hr>
+                        </li>
+                    `);
+                });
+
+                page++;
+            },
+            error: function (err) {
+                $("#loader").hide();
+                console.error(err);
+                alert("Failed to load tasks");
+            }
+        });
+    }
+
+    $(document).ready(function () {
+        loadTasks();
+
+        $("#loadMore").click(function () {
+            loadTasks();
+        });
+
+        $("#statusFilter").change(function () {
+            loadTasks(true);
+        });
+    });
+</script>
+
+{% endblock content %}

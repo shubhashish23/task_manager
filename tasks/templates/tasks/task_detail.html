@@ -1,0 +1,86 @@
+{% extends "tasks/base.html" %}
+{% load static %}
+{% block title %} Task Dtail {% endblock title %}
+{% block extracss %}<link rel="stylesheet" href="{% static "tasks/css/detail.css" %}">{% endblock extracss %}
+
+{% block content %}
+
+<div class="page_content">
+<div class="task-detail-container">
+    <h2 class="task-title">
+        <span id="title"></span>
+    </h2>
+
+    <div class="task-info">
+        <p><span>Description:</span> <span id="description"></span></p>
+        <p><span>Due Date:</span> <span id="due_date"></span></p>
+        <p>
+            <span>Status:</span>
+            <span id="status" class="status-badge"></span>
+        </p>
+    </div>
+
+    <div class="task-actions">
+        {% csrf_token %}
+        <button id="deleteTask" class="btn btn-danger">Delete</button>
+
+        {% csrf_token %}
+        <button id="completeTask" class="btn btn-success">Mark Completed</button>
+
+        <a href="{% url 'tasks:task_edit' task_id %}" class="edit-link">Edit</a>
+    </div>
+
+    <a href="{% url 'tasks:task_list' %}" class="back-link">← Back to List</a>
+</div>
+
+<script>
+    const taskId = "{{ task_id }}";
+
+    // Delete task
+    $("#deleteTask").click(function(){
+        $.ajax({
+            url: `/api/tasks/${taskId}/`,
+            type: "DELETE",
+            headers: {"X-CSRFToken": $("input[name=csrfmiddlewaretoken]").val()},
+            success: function(){ window.location.href = "/"; }
+        });
+    });
+
+    // Mark task as completed
+    $("#completeTask").click(function(){
+        $.ajax({
+            url: `/api/tasks/${taskId}/`,
+            type: "PATCH",
+            contentType: "application/json",
+            headers: {"X-CSRFToken": $("input[name=csrfmiddlewaretoken]").val()},
+            data: JSON.stringify({ status: "Completed" }),
+            success: function(){ location.reload(); }
+        });
+    });
+
+
+    $(document).ready(function () {
+
+        console.log("📞 Fetching task:", taskId);
+
+        $.ajax({
+            url: `/api/tasks/${taskId}/`,
+            type: "GET",
+            success: function (task) {
+                console.log("✅ Task fetched:", task);
+
+                $("#title").text(`Task : ${task.title}`);
+                $("#description").text(task.description || "-");
+                $("#due_date").text(task.due_date || "-");
+                $("#status").text(task.status);
+            },
+            error: function (xhr) {
+                console.error("❌ Fetch failed", xhr.responseText);
+                alert("Failed to load task");
+            }
+        });
+
+    });
+</script>
+
+{% endblock content %}

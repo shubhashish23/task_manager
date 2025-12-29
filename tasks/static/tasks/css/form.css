@@ -1,0 +1,75 @@
+/* Container */
+.task-form-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 28px 26px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.1);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Title */
+.task-form-container h2 {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 22px;
+    color: #111827;
+}
+
+/* Form inputs */
+#taskForm input,
+#taskForm textarea,
+#taskForm select {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 16px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    outline: none;
+    box-sizing: border-box;
+}
+
+#taskForm input:focus,
+#taskForm textarea:focus,
+#taskForm select:focus {
+    border-color: #2563eb;
+}
+
+/* Textarea height */
+#taskForm textarea {
+    min-height: 80px;
+    resize: vertical;
+}
+
+/* Submit button */
+#taskForm button {
+    width: 100%;
+    padding: 10px;
+    background: #2563eb;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.1s ease;
+}
+
+#taskForm button:hover {
+    background: #1e40af;
+    transform: translateY(-1px);
+}
+
+/* Back link */
+.back-link {
+    display: inline-block;
+    margin-top: 18px;
+    font-size: 14px;
+    color: #2563eb;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}

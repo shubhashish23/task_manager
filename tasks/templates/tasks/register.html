@@ -1,0 +1,54 @@
+{% extends "tasks/base.html" %}
+{% load static %}
+{% block title %} Register {% endblock title %}
+{% block extracss %}<link rel="stylesheet" href="{% static "tasks/css/login.css" %}">{% endblock extracss %}
+
+{% block content %}
+
+
+<div class="auth-container">
+    <h2>Register</h2>
+
+    <form id="registerForm">
+        {% csrf_token %}
+
+        <input id="username" placeholder="Username" required>
+        <input id="password" type="password" placeholder="Password" required>
+
+        <button type="submit">Register</button>
+    </form>
+
+    <p id="error"></p>
+
+    <p class="auth-link">
+        Already have an account?
+        <a href="{% url 'tasks:login' %}">Login</a>
+    </p>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$("#registerForm").submit(function(e){
+    e.preventDefault();
+
+    $.ajax({
+        url: "/api/auth/register/",
+        type: "POST",
+        contentType: "application/json",
+        headers: {
+            "X-CSRFToken": $("input[name=csrfmiddlewaretoken]").val()
+        },
+        data: JSON.stringify({
+            username: $("#username").val(),
+            password: $("#password").val()
+        }),
+        success: function(){
+            window.location.href = "/login/";
+        },
+        error: function(xhr){
+            $("#error").text(xhr.responseJSON.error);
+        }
+    });
+});
+</script>
+{% endblock content %}

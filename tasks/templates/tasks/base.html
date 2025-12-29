@@ -1,0 +1,51 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %} {% endblock title %}</title>
+    <link rel="stylesheet" href="{% static 'tasks/css/style.css' %}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    {% block extracss %}{% endblock extracss %}
+</head>
+<body>
+    <div class="parent">
+        <header class="header_class">
+            <div class="logo">
+                <img  src="{% static "tasks/images/logo.jpg" %}" alt="logo">
+            </div>
+            {% csrf_token %}
+            {% if not login and not register %}
+                <button class="button-style" id="logoutBtn">
+                    <img src="{% static 'tasks/images/log-out-outline.svg' %}" alt="" class="logout-icon">
+                    Logout
+                </button>
+            {% endif %}
+            
+        </header>
+        {% block content %}{% endblock content %}
+
+    </div>
+    
+    <script>
+        $("#logoutBtn").click(function(){
+        $.ajax({
+            url: "/api/auth/logout/",
+            type: "POST",
+            headers: {
+                "X-CSRFToken": $("input[name=csrfmiddlewaretoken]").val()
+            },
+            success: function(){
+                window.location.href = "/login/";
+            },
+            error: function(){
+                alert("Logout failed");
+            }
+        });
+    });
+    </script>
+    
+    
+</body>
+</html>

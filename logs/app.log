@@ -1,0 +1,1858 @@
+[2025-12-28 06:55:12,484] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 06:58:06,155] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 06:58:08,336] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 06:58:17,440] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 06:58:19,460] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 06:58:39,248] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 06:58:41,292] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 06:59:00,132] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 06:59:02,137] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 06:59:14,757] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 06:59:16,773] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 06:59:51,619] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 06:59:53,739] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:01:09,505] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:01:11,701] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:01:29,118] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:01:31,106] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:01:59,342] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:02:01,341] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:02:46,163] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:03:37,925] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:03:40,181] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:03:43,260] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:03:45,371] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:04:17,821] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:04:22,058] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-28 07:04:24,243] INFO tasks.api Task list requested by user_id=8
+[2025-12-28 07:04:24,244] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-28 07:08:31,946] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:08:34,829] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:10:01,558] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:10:03,641] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:10:27,846] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:10:30,194] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:11:12,225] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:11:14,417] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:11:43,258] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:11:45,247] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:12:18,981] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 07:12:21,187] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 07:28:38,710] INFO tasks.api Logout request by user_id=8
+[2025-12-28 07:28:38,736] INFO tasks.api Logout successful
+[2025-12-28 07:28:38,907] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-28 16:49:23,322] WARNING django.request Not Found: /api/register/
+[2025-12-28 16:49:24,403] WARNING django.request Not Found: /api/login/
+[2025-12-28 16:49:24,417] WARNING django.request Not Found: /api/login/
+[2025-12-28 16:49:25,997] WARNING django.request Not Found: /api/logout/
+[2025-12-28 16:49:29,432] INFO tasks.api Create task request by user_id=1
+[2025-12-28 16:49:29,433] INFO tasks.api Generated task_id=03c91a93-cf37-4af7-b295-564e1556088e
+[2025-12-28 16:49:29,434] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 16:49:29,435] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 16:54:35,162] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 16:54:41,949] WARNING django.request Not Found: /api/register/
+[2025-12-28 16:54:42,845] WARNING django.request Not Found: /api/login/
+[2025-12-28 16:54:42,855] WARNING django.request Not Found: /api/login/
+[2025-12-28 16:54:44,189] WARNING django.request Not Found: /api/logout/
+[2025-12-28 16:54:47,015] INFO tasks.api Create task request by user_id=1
+[2025-12-28 16:54:47,015] INFO tasks.api Generated task_id=e393e791-362e-4452-a2b1-1be69a8d88e4
+[2025-12-28 16:54:47,016] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 16:54:47,018] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 16:56:23,627] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 16:56:24,479] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 16:56:34,088] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 16:56:35,250] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 16:56:38,422] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 16:56:39,751] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 17:02:30,477] WARNING django.request Not Found: /api/register/
+[2025-12-28 17:02:31,304] WARNING django.request Not Found: /api/login/
+[2025-12-28 17:02:31,314] WARNING django.request Not Found: /api/login/
+[2025-12-28 17:02:32,620] WARNING django.request Not Found: /api/logout/
+[2025-12-28 17:02:35,287] INFO tasks.api Create task request by user_id=1
+[2025-12-28 17:02:35,288] INFO tasks.api Generated task_id=0ae5fe2b-d644-42e4-85b7-bcb3eb647530
+[2025-12-28 17:02:35,288] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 17:02:35,291] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 17:20:45,248] WARNING django.request Not Found: /api/register/
+[2025-12-28 17:20:46,079] WARNING django.request Not Found: /api/login/
+[2025-12-28 17:20:46,089] WARNING django.request Not Found: /api/login/
+[2025-12-28 17:20:47,349] WARNING django.request Not Found: /api/logout/
+[2025-12-28 17:20:49,992] INFO tasks.api Create task request by user_id=1
+[2025-12-28 17:20:49,993] INFO tasks.api Generated task_id=7e36096f-4ab7-42d4-a790-addbe559842f
+[2025-12-28 17:20:49,993] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 17:20:50,016] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:15:37,557] WARNING django.request Not Found: /api/register/
+[2025-12-28 18:15:38,456] WARNING django.request Not Found: /api/login/
+[2025-12-28 18:15:38,465] WARNING django.request Not Found: /api/login/
+[2025-12-28 18:15:39,754] WARNING django.request Not Found: /api/logout/
+[2025-12-28 18:15:42,381] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:15:42,381] INFO tasks.api Generated task_id=09ffbd97-e40e-4cb2-8365-2c31ebf953d7
+[2025-12-28 18:15:42,382] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:15:42,383] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:18:45,497] WARNING django.request Not Found: /api/register/
+[2025-12-28 18:18:46,377] WARNING django.request Not Found: /api/login/
+[2025-12-28 18:18:46,396] WARNING django.request Not Found: /api/login/
+[2025-12-28 18:18:47,915] WARNING django.request Not Found: /api/logout/
+[2025-12-28 18:18:50,892] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:18:50,893] INFO tasks.api Generated task_id=fd6ccb4f-9154-42e3-ba6c-febe30cc5697
+[2025-12-28 18:18:50,893] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:18:50,895] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:22:43,889] WARNING django.request Not Found: /apiauth/register/
+[2025-12-28 18:22:44,974] WARNING django.request Not Found: /apiauth/login/
+[2025-12-28 18:22:44,986] WARNING django.request Not Found: /apiauth/login/
+[2025-12-28 18:22:46,527] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:22:46,529] INFO tasks.api Logout successful
+[2025-12-28 18:22:49,471] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:22:49,471] INFO tasks.api Generated task_id=89b90f10-3110-438f-b6d7-d814bec835f0
+[2025-12-28 18:22:49,472] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 115, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:22:49,474] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:29:06,671] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\models.py changed, reloading.
+[2025-12-28 18:29:08,008] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:29:18,757] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\models.py changed, reloading.
+[2025-12-28 18:29:19,864] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:30:55,447] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 18:30:56,385] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:32:08,258] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 18:32:08,970] INFO tasks.api User registered successfully
+[2025-12-28 18:32:09,763] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 18:32:10,497] INFO tasks.api Login successful for user_id=1
+[2025-12-28 18:32:10,504] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 18:32:11,220] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 18:32:11,222] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 18:32:12,699] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:32:12,700] INFO tasks.api Logout successful
+[2025-12-28 18:32:16,104] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:32:16,105] INFO tasks.api Generated task_id=e1237ee6-59f2-4cde-b0dd-d207144d346f
+[2025-12-28 18:32:16,105] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 116, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:32:16,108] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:45:41,704] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\models.py changed, reloading.
+[2025-12-28 18:45:42,933] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:45:46,170] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\models.py changed, reloading.
+[2025-12-28 18:45:47,115] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:46:10,377] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 18:46:11,172] INFO tasks.api User registered successfully
+[2025-12-28 18:46:11,920] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 18:46:12,670] INFO tasks.api Login successful for user_id=1
+[2025-12-28 18:46:12,676] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 18:46:13,400] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 18:46:13,402] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 18:46:14,866] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:46:14,867] INFO tasks.api Logout successful
+[2025-12-28 18:46:18,076] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:46:18,076] INFO tasks.api Generated task_id=453c0332-aca0-463b-9500-3e7f99a31540
+[2025-12-28 18:46:18,077] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 116, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:46:18,080] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:48:50,260] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:49:00,726] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 18:49:01,391] INFO tasks.api User registered successfully
+[2025-12-28 18:49:02,048] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 18:49:02,711] INFO tasks.api Login successful for user_id=1
+[2025-12-28 18:49:02,718] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 18:49:03,350] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 18:49:03,351] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 18:49:04,654] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:49:04,655] INFO tasks.api Logout successful
+[2025-12-28 18:49:07,510] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:49:07,511] INFO tasks.api Generated task_id=1180870f-2cdc-4f70-9ad3-78072bbe40f0
+[2025-12-28 18:49:07,511] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 116, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:49:07,514] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:50:59,669] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 18:51:00,339] INFO tasks.api User registered successfully
+[2025-12-28 18:51:01,012] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 18:51:01,670] INFO tasks.api Login successful for user_id=1
+[2025-12-28 18:51:01,677] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 18:51:02,321] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 18:51:02,323] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 18:51:03,656] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:51:03,657] INFO tasks.api Logout successful
+[2025-12-28 18:51:06,506] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:51:06,507] INFO tasks.api Generated task_id=9864eb72-568f-4470-85b6-5ecae5a49c74
+[2025-12-28 18:51:06,507] ERROR tasks.api Task creation failed
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: tasks_task
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py", line 116, in post
+    cursor.execute(
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: tasks_task
+[2025-12-28 18:51:06,511] ERROR django.request Internal Server Error: /api/tasks/
+[2025-12-28 18:56:48,564] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 18:56:49,246] INFO tasks.api User registered successfully
+[2025-12-28 18:56:49,963] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 18:56:50,757] INFO tasks.api Login successful for user_id=1
+[2025-12-28 18:56:50,764] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 18:56:51,467] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 18:56:51,468] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 18:56:52,924] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:56:52,925] INFO tasks.api Logout successful
+[2025-12-28 18:56:54,433] INFO tasks.api Task list requested by user_id=1
+[2025-12-28 18:56:54,433] INFO tasks.api Returned 1 tasks for user_id=1
+[2025-12-28 18:56:55,892] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:56:55,892] INFO tasks.api Generated task_id=d0450492-0c42-4567-ba70-85738d9106f0
+[2025-12-28 18:56:55,893] INFO tasks.api Task created successfully task_id=d0450492-0c42-4567-ba70-85738d9106f0
+[2025-12-28 18:56:57,394] INFO tasks.api Fetch task_id=20775b22-0ccf-4883-8d69-9c9bd0f06a89 by user_id=1
+[2025-12-28 18:56:57,395] INFO tasks.api Task fetched successfully task_id=20775b22-0ccf-4883-8d69-9c9bd0f06a89
+[2025-12-28 18:56:58,897] INFO tasks.api Update task_id=7dc21018-1d86-4537-ae46-1c23bacbda71 by user_id=1
+[2025-12-28 18:56:58,897] INFO tasks.api Task updated task_id=7dc21018-1d86-4537-ae46-1c23bacbda71
+[2025-12-28 18:57:00,402] INFO tasks.api Patch status for task_id=5f15d919-9f63-4507-86b5-df8009f64b15
+[2025-12-28 18:57:00,403] INFO tasks.api Task status updated task_id=5f15d919-9f63-4507-86b5-df8009f64b15
+[2025-12-28 18:57:01,951] INFO tasks.api Delete task_id=6e695e31-747d-434a-b3b1-bb136c0bc6f1 by user_id=1
+[2025-12-28 18:57:01,952] INFO tasks.api Task deleted task_id=6e695e31-747d-434a-b3b1-bb136c0bc6f1
+[2025-12-28 18:57:26,919] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 18:57:27,946] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:58:12,381] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 18:58:13,242] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:58:21,507] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-28 18:58:22,476] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 18:58:27,393] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 18:58:28,143] INFO tasks.api User registered successfully
+[2025-12-28 18:58:28,897] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 18:58:29,638] INFO tasks.api Login successful for user_id=1
+[2025-12-28 18:58:29,644] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 18:58:30,384] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 18:58:30,386] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 18:58:31,886] INFO tasks.api Logout request by user_id=1
+[2025-12-28 18:58:31,887] INFO tasks.api Logout successful
+[2025-12-28 18:58:33,407] INFO tasks.api Task list requested by user_id=1
+[2025-12-28 18:58:33,407] INFO tasks.api Returned 1 tasks for user_id=1
+[2025-12-28 18:58:34,956] INFO tasks.api Create task request by user_id=1
+[2025-12-28 18:58:34,956] INFO tasks.api Generated task_id=8877507f-7031-49f1-b5af-0f76feda61d8
+[2025-12-28 18:58:34,956] INFO tasks.api Task created successfully task_id=8877507f-7031-49f1-b5af-0f76feda61d8
+[2025-12-28 18:58:36,509] INFO tasks.api Fetch task_id=905a52cb-163a-428b-91e2-5fb1e7b93a76 by user_id=1
+[2025-12-28 18:58:36,509] INFO tasks.api Task fetched successfully task_id=905a52cb-163a-428b-91e2-5fb1e7b93a76
+[2025-12-28 18:58:37,998] INFO tasks.api Update task_id=0321fd73-f564-41b4-a9aa-d69c937e5c51 by user_id=1
+[2025-12-28 18:58:37,998] INFO tasks.api Task updated task_id=0321fd73-f564-41b4-a9aa-d69c937e5c51
+[2025-12-28 18:58:39,541] INFO tasks.api Patch status for task_id=74fc792a-0d51-4171-b1e7-e57348346af6
+[2025-12-28 18:58:39,541] INFO tasks.api Task status updated task_id=74fc792a-0d51-4171-b1e7-e57348346af6
+[2025-12-28 18:58:41,042] INFO tasks.api Delete task_id=9ffe4f07-3b05-4861-a100-fb3173310bb2 by user_id=1
+[2025-12-28 18:58:41,042] INFO tasks.api Task deleted task_id=9ffe4f07-3b05-4861-a100-fb3173310bb2
+[2025-12-28 18:58:41,049] WARNING django.request Forbidden: /api/tasks/
+[2025-12-28 19:00:40,620] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:06:10,146] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\task_manager\settings.py changed, reloading.
+[2025-12-28 19:06:11,700] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:06:15,049] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\task_manager\settings.py changed, reloading.
+[2025-12-28 19:06:16,421] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:06:35,876] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\task_manager\settings.py changed, reloading.
+[2025-12-28 19:06:37,308] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:06:47,944] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\task_manager\settings.py changed, reloading.
+[2025-12-28 19:06:49,534] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:07:26,410] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 19:07:27,763] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:07:38,419] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 19:07:39,518] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:07:45,195] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 19:07:46,317] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:07:48,840] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 19:07:50,289] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:07:52,747] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 19:07:54,061] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:07:56,596] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\urls.py changed, reloading.
+[2025-12-28 19:07:57,994] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 19:08:49,447] ERROR django.request Internal Server Error: /api/docs/
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\drf_spectacular\views.py", line 141, in get
+    'schema_url': self._get_schema_url(request),
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\drf_spectacular\views.py", line 159, in _get_schema_url
+    schema_url = self.url or get_relative_url(reverse(self.url_name, request=request))
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\rest_framework\reverse.py", line 47, in reverse
+    url = _reverse(viewname, args, kwargs, request, format, **extra)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\rest_framework\reverse.py", line 60, in _reverse
+    url = django_reverse(viewname, args=args, kwargs=kwargs, **extra)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'schema' not found. 'schema' is not a valid view function or pattern name.
+[2025-12-28 19:37:10,887] INFO tasks.api Register attempt for username=newuser
+[2025-12-28 19:37:11,538] INFO tasks.api User registered successfully
+[2025-12-28 19:37:12,180] INFO tasks.api Login attempt for username=testuser
+[2025-12-28 19:37:12,833] INFO tasks.api Login successful for user_id=1
+[2025-12-28 19:37:12,841] INFO tasks.api Login attempt for username=wrong
+[2025-12-28 19:37:13,484] WARNING tasks.api Login failed for username=wrong
+[2025-12-28 19:37:13,488] WARNING django.request Unauthorized: /api/auth/login/
+[2025-12-28 19:37:14,824] INFO tasks.api Logout request by user_id=1
+[2025-12-28 19:37:14,826] INFO tasks.api Logout successful
+[2025-12-28 19:37:16,391] INFO tasks.api Task list requested by user_id=1
+[2025-12-28 19:37:16,392] INFO tasks.api Returned 1 tasks for user_id=1
+[2025-12-28 19:37:17,958] INFO tasks.api Create task request by user_id=1
+[2025-12-28 19:37:17,959] INFO tasks.api Generated task_id=bc4eb653-0573-4c33-9f3f-8f43de81b108
+[2025-12-28 19:37:17,959] INFO tasks.api Task created successfully task_id=bc4eb653-0573-4c33-9f3f-8f43de81b108
+[2025-12-28 19:37:19,330] INFO tasks.api Fetch task_id=eb5e89d4-e666-4625-ac0a-b04444634190 by user_id=1
+[2025-12-28 19:37:19,331] INFO tasks.api Task fetched successfully task_id=eb5e89d4-e666-4625-ac0a-b04444634190
+[2025-12-28 19:37:20,657] INFO tasks.api Update task_id=8b8cba62-ffd9-4760-9fa1-d7d60ffd43a3 by user_id=1
+[2025-12-28 19:37:20,657] INFO tasks.api Task updated task_id=8b8cba62-ffd9-4760-9fa1-d7d60ffd43a3
+[2025-12-28 19:37:22,007] INFO tasks.api Patch status for task_id=23465863-efe9-49c4-81d7-889ba47fa186
+[2025-12-28 19:37:22,007] INFO tasks.api Task status updated task_id=23465863-efe9-49c4-81d7-889ba47fa186
+[2025-12-28 19:37:23,350] INFO tasks.api Delete task_id=d0a8a1d5-f179-4d81-a083-bd3539c07138 by user_id=1
+[2025-12-28 19:37:23,350] INFO tasks.api Task deleted task_id=d0a8a1d5-f179-4d81-a083-bd3539c07138
+[2025-12-28 19:37:23,356] WARNING django.request Forbidden: /api/tasks/
+[2025-12-28 20:17:02,213] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-28 20:17:06,468] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-28 20:17:07,439] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-28 20:17:07,863] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-28 20:17:08,103] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-28 20:17:08,221] INFO tasks.api Login successful for user_id=8
+[2025-12-28 20:17:08,407] WARNING django.request Forbidden: /api/auth/login/
+[2025-12-28 20:17:08,600] INFO tasks.api Task list requested by user_id=8
+[2025-12-28 20:17:08,602] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-28 20:17:09,533] INFO tasks.api Login successful for user_id=8
+[2025-12-28 20:17:10,101] INFO tasks.api Login successful for user_id=8
+[2025-12-28 20:17:10,447] INFO tasks.api Login successful for user_id=8
+[2025-12-28 20:17:10,829] INFO tasks.api Fetch task_id=e5b1749b-415c-454b-ac70-ca25b8aed8d1 by user_id=8
+[2025-12-28 20:17:10,831] INFO tasks.api Task fetched successfully task_id=e5b1749b-415c-454b-ac70-ca25b8aed8d1
+[2025-12-28 20:17:12,574] INFO tasks.api Fetch task_id=e5b1749b-415c-454b-ac70-ca25b8aed8d1 by user_id=8
+[2025-12-28 20:17:12,576] INFO tasks.api Task fetched successfully task_id=e5b1749b-415c-454b-ac70-ca25b8aed8d1
+[2025-12-29 07:39:26,478] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 511, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 513, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 27: 'static', expected 'endblock'. Did you forget to register or load this tag?
+[2025-12-29 07:41:46,170] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 511, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 513, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 27: 'static', expected 'endblock'. Did you forget to register or load this tag?
+[2025-12-29 07:41:47,318] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 511, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 513, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 27: 'static', expected 'endblock'. Did you forget to register or load this tag?
+[2025-12-29 07:41:47,614] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 511, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 513, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 27: 'static', expected 'endblock'. Did you forget to register or load this tag?
+[2025-12-29 07:42:03,311] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 520, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 541, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: {% extends "base.html" %} must be the first tag in 'tasks/task_list.html'.
+[2025-12-29 07:42:34,583] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+[2025-12-29 07:42:36,249] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+[2025-12-29 07:42:36,500] ERROR django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\contrib\auth\decorators.py", line 59, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py", line 12, in task_list
+    return render(request, "tasks/task_list.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 109, in render
+    reraise(exc, self.backend)
+  File "C:\Users\shubhashish\OneDrive\Desktop\to_do_app\env\Lib\site-packages\django\template\backends\django.py", line 130, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+[2025-12-29 07:42:55,384] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:42:55,386] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:44:14,658] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:44:14,659] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:44:15,390] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:44:15,393] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:44:15,642] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:44:15,643] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:44:16,448] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:44:16,450] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:44:16,727] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:44:16,734] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:44:27,603] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:44:27,605] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:46:00,861] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:46:00,862] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:46:01,677] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:46:01,679] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:46:01,903] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:46:01,904] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:46:02,186] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:46:02,189] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:46:03,738] INFO tasks.api Logout request by user_id=8
+[2025-12-29 07:46:03,757] INFO tasks.api Logout successful
+[2025-12-29 07:46:06,629] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-29 07:46:08,472] INFO tasks.api Login successful for user_id=8
+[2025-12-29 07:46:08,651] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:46:08,653] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:47:14,791] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:47:14,792] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:47:17,532] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:47:17,534] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:47:20,685] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:47:53,039] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 07:47:56,937] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:47:57,083] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:47:57,085] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:47:57,533] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:47:57,673] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:47:57,678] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:47:57,819] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:47:57,956] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:47:57,964] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:48:27,575] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:48:27,684] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:48:27,686] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:48:48,506] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:48:48,630] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:48:48,634] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:11,073] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:11,202] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:11,204] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:12,091] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:12,203] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:12,206] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:12,344] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:12,475] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:12,480] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:12,607] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:12,716] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:12,719] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:37,076] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:37,205] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:37,211] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:37,833] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:37,943] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:37,947] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:39,057] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:49:42,769] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:49:42,777] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:49:42,845] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:51:58,746] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:51:58,802] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:51:58,809] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:51:59,552] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:51:59,612] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:51:59,613] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:52:00,190] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:52:00,256] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:52:00,258] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:52:00,482] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:52:00,592] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:52:00,595] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:52:01,226] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:52:01,295] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:52:01,298] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:52:01,487] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:52:01,548] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:52:01,549] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:52:41,781] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:52:41,833] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:52:41,835] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:53:07,312] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:53:07,361] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:53:07,363] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:53:08,252] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:53:08,309] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:53:08,311] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:53:08,498] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:53:08,539] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:53:08,542] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:53:23,217] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:53:23,282] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:53:23,285] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:53:37,509] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:53:37,567] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:53:37,568] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:55:13,435] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:55:13,511] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:55:13,516] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:57:12,618] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:57:12,707] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:57:12,710] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:57:29,610] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:57:29,646] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:57:29,655] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:57:30,639] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:57:30,678] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:57:30,683] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:57:30,871] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:57:30,923] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:57:30,927] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:57:37,532] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:57:40,240] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:57:40,249] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:57:40,252] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:58:02,850] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:58:03,797] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:58:03,796] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:58:03,806] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:58:21,117] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:58:21,694] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:58:21,712] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:58:21,717] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:58:33,180] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:58:34,254] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:58:34,271] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:58:34,274] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:58:52,854] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:58:54,046] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:58:54,055] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:58:54,060] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 07:59:12,622] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 07:59:13,903] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 07:59:13,908] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 07:59:13,912] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:01:39,446] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:01:43,519] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:01:43,527] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:01:43,536] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:03:55,497] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:03:59,264] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:03:59,317] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:05:52,246] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:05:52,317] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:05:52,325] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:05:53,262] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:05:53,325] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:05:53,328] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:05:53,472] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:05:53,518] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:05:53,521] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:05:56,200] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:06:05,668] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:06:05,690] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:06:05,692] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:06:20,059] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:06:20,139] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:06:20,142] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:08:30,989] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:08:31,086] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:08:31,090] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:08:32,511] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:08:32,566] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:08:32,568] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:08:32,813] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:08:32,925] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:08:32,926] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:08:33,260] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:08:33,322] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:08:33,324] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:09:30,802] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:09:30,860] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:09:30,862] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:10:33,440] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:10:33,519] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:10:33,522] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:10:34,166] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:10:34,213] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:10:34,215] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:10:34,440] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:10:34,500] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:10:34,504] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:10:53,577] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:10:53,630] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:10:53,632] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:11:23,855] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:11:23,865] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:11:23,893] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:11:41,922] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:11:41,960] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:11:41,965] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:14:12,239] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:14:14,970] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:14:14,981] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:14:14,987] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:14:51,882] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:14:51,970] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:14:51,973] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:15:15,315] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:15:15,395] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:15:15,398] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:15:42,575] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:15:42,662] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:15:42,667] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:15:58,556] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:15:58,604] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:15:58,606] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:16:22,197] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:16:22,275] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:16:22,277] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:16:41,330] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:16:41,403] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:16:41,407] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:16:45,567] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:16:45,630] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:16:45,643] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:16:47,510] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:16:58,407] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:16:58,419] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:16:58,421] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:18:09,823] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:18:09,921] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:18:09,926] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:18:36,129] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:18:36,186] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:18:36,189] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:18:37,076] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:18:37,130] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:18:37,132] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:18:37,338] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:18:37,429] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:18:37,436] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:18:39,508] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:18:47,949] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:18:47,963] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:18:47,971] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:19:02,228] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:19:05,575] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:19:05,591] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:19:05,597] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:19:53,540] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:19:53,629] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:19:53,632] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:19:54,572] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:19:54,629] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:19:54,632] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:19:54,798] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:19:54,850] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:19:54,852] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:19:56,055] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:20:01,663] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:20:01,671] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:20:01,675] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:20:17,708] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:20:19,404] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:20:19,417] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:20:19,422] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:20:42,180] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:20:43,931] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:20:43,938] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:20:43,941] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:21:26,741] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:21:26,815] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:21:26,817] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:21:39,487] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:21:39,553] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:21:39,558] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:22:04,378] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:22:06,836] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:22:06,839] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:22:06,848] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:22:14,238] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:22:14,810] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:22:14,819] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:22:14,823] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:22:31,856] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:22:32,245] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:22:32,252] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:22:32,257] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:22:41,886] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:22:41,971] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:22:41,973] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:23:04,929] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:23:05,365] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:23:05,374] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:23:05,380] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:23:17,195] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:23:17,727] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:23:17,736] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:23:17,740] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:29:40,783] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:29:40,846] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:29:40,849] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 08:30:04,056] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:30:11,116] INFO tasks.api Create task request by user_id=8
+[2025-12-29 08:30:11,121] INFO tasks.api Generated task_id=6f90b19c-8819-490e-9654-689edd7f8f27
+[2025-12-29 08:30:11,142] INFO tasks.api Task created successfully task_id=6f90b19c-8819-490e-9654-689edd7f8f27
+[2025-12-29 08:30:11,446] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:30:11,492] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:30:11,494] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:30:19,082] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:30:19,085] INFO tasks.api Returned 0 tasks for user_id=8
+[2025-12-29 08:30:20,001] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:30:20,003] INFO tasks.api Returned 0 tasks for user_id=8
+[2025-12-29 08:30:24,649] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:30:30,749] INFO tasks.api Create task request by user_id=8
+[2025-12-29 08:30:30,750] INFO tasks.api Generated task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 08:30:30,763] INFO tasks.api Task created successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 08:30:30,939] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:30:31,015] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:30:31,017] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:31:23,162] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:31:23,164] INFO tasks.api Returned 0 tasks for user_id=8
+[2025-12-29 08:31:49,295] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:31:49,875] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:31:49,876] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:31:49,882] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:32:40,647] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:32:48,145] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:32:48,141] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:32:48,152] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:33:23,358] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:33:26,064] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:33:26,061] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:33:26,072] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:33:56,594] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:33:57,130] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:33:57,139] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:33:57,145] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:35:48,762] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:35:49,213] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:35:49,212] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:35:49,217] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:36:18,300] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:36:18,732] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:36:18,741] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:36:18,745] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:37:11,373] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:37:11,968] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:37:11,981] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:37:11,987] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:37:38,820] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:37:38,909] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:37:38,914] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:38:14,471] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:38:14,540] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:38:14,546] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:05,984] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:06,057] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:06,063] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:06,823] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:06,893] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:06,899] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:07,053] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:07,113] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:07,120] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:07,291] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:07,336] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:07,341] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:09,026] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:13,763] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:13,760] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:39:13,767] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:48,690] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:50,756] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:39:50,767] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:50,773] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:39:51,941] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:39:53,361] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:39:53,365] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:39:53,374] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:40:42,856] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:40:42,934] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:40:42,938] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:41:19,297] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:41:19,372] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:41:19,378] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:41:21,557] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:41:23,504] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:41:23,513] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:41:23,519] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:42:56,545] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:42:56,654] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:42:56,658] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:43:19,119] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:43:19,211] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:43:19,215] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:43:22,891] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:43:25,659] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:43:25,670] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:43:25,676] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:44:19,366] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:44:19,473] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:44:19,478] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:44:26,685] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:44:30,848] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:44:30,861] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:44:30,870] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:45:05,772] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:45:05,875] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:45:05,881] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:45:29,574] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:45:29,686] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:45:29,692] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:45:44,801] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:45:44,890] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:45:44,897] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:46:00,694] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:46:00,848] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:46:00,852] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:47:56,141] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:47:56,983] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:47:56,986] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:47:56,994] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:48:21,293] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:48:21,358] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:48:21,363] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:48:32,342] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:48:34,322] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:48:34,324] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:48:34,331] INFO tasks.api Returned 4 tasks for user_id=8
+[2025-12-29 08:49:10,482] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-29 08:49:13,787] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 08:49:15,673] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:49:15,677] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:49:15,722] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:49:18,662] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:49:18,664] INFO tasks.api Returned 1 tasks for user_id=8
+[2025-12-29 08:49:24,768] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-29 08:49:27,320] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 08:49:29,849] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-29 08:49:32,663] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 08:49:34,422] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:49:34,510] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:49:40,380] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:49:40,437] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:49:40,441] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:51:33,545] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:51:33,631] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:51:33,634] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:52:36,143] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:52:36,222] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:52:36,225] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:52:39,134] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:52:46,632] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:52:46,645] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:52:46,650] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:54:21,462] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:54:21,574] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:54:21,577] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:54:22,728] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:54:22,784] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:54:22,789] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:54:23,386] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:54:23,463] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:54:23,472] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:54:23,691] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:54:23,755] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:54:23,757] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:55:00,468] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:55:01,227] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:55:01,237] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:55:01,240] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:55:25,680] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:55:26,252] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 08:55:26,261] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:55:26,264] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:56:56,637] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:56:56,736] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:56:56,741] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:56:58,312] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:56:58,380] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:56:58,386] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:56:58,970] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:56:59,009] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:56:59,012] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:57:38,971] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:57:39,038] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:57:39,042] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:58:22,742] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:58:22,755] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:58:22,832] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:58:53,547] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:58:53,549] INFO tasks.api Returned 1 tasks for user_id=8
+[2025-12-29 08:59:10,436] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:59:10,506] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:59:10,509] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 08:59:12,565] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 08:59:12,567] INFO tasks.api Returned 1 tasks for user_id=8
+[2025-12-29 08:59:18,135] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:59:18,215] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 08:59:18,218] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 08:59:26,543] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:59:26,643] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:59:32,911] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 08:59:33,018] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 08:59:33,024] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:11:40,337] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:11:40,417] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:11:40,428] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:15:15,665] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:15:15,714] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:15:15,716] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:15:20,382] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:15:21,109] WARNING django.request Not Found: /favicon.ico
+[2025-12-29 09:15:21,117] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:15:21,119] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:17:53,031] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:17:53,105] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:17:53,109] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:18:10,318] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:18:10,352] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:18:10,355] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:18:30,427] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:18:30,478] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:18:30,481] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:22:37,396] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:22:37,436] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:22:37,437] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:23:45,338] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:23:45,369] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:23:45,371] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:17,947] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:17,977] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:17,979] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:18,591] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:18,617] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:18,618] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:18,810] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:18,835] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:18,837] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:19,388] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:19,416] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:19,420] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:19,655] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:19,688] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:19,690] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:19,992] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:20,017] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:20,018] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:46,050] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:46,082] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:46,083] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:50,445] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:50,488] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:24:50,489] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:24:51,831] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:51,856] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:51,857] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:24:55,208] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:24:55,275] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:24:55,278] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:26:33,231] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:26:33,255] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:26:36,233] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:26:36,278] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:26:36,280] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:26:40,359] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:26:40,361] INFO tasks.api Returned 1 tasks for user_id=8
+[2025-12-29 09:26:45,174] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:26:45,176] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 09:26:47,519] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:26:47,521] INFO tasks.api Returned 0 tasks for user_id=8
+[2025-12-29 09:26:49,640] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:26:49,643] INFO tasks.api Returned 2 tasks for user_id=8
+[2025-12-29 09:26:56,469] INFO tasks.api Logout request by user_id=8
+[2025-12-29 09:26:56,491] INFO tasks.api Logout successful
+[2025-12-29 09:26:56,569] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:27:03,716] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-29 09:27:05,103] INFO tasks.api Login successful for user_id=8
+[2025-12-29 09:27:05,193] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:27:05,220] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:27:05,222] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:27:15,950] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:27:16,001] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:27:16,003] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:27:17,445] INFO tasks.api Patch status for task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:27:17,456] INFO tasks.api Task status updated task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:27:17,551] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:27:17,584] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:27:17,585] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:27:26,419] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:27:26,450] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:27:26,452] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:29:23,571] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:29:23,613] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:29:23,615] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:29:37,288] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:29:37,331] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:29:37,334] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:29:39,571] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:29:39,572] INFO tasks.api Returned 1 tasks for user_id=8
+[2025-12-29 09:30:13,656] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:30:13,682] INFO tasks.api Fetch task_id=4e957fd7-7517-4f96-815a-b424da9352f0 by user_id=8
+[2025-12-29 09:30:13,684] INFO tasks.api Task fetched successfully task_id=4e957fd7-7517-4f96-815a-b424da9352f0
+[2025-12-29 09:30:18,242] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:30:18,266] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:30:18,267] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:33:24,490] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:25,869] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:33:28,263] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:29,840] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:33:31,686] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:33,245] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:33:36,748] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:38,178] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:33:46,216] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:47,715] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:33:51,977] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:53,243] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:33:55,457] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:33:56,899] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:34:00,486] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:34:01,748] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:34:07,574] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:34:09,033] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:34:14,518] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:34:15,915] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:34:17,726] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\views.py changed, reloading.
+[2025-12-29 09:34:19,034] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 09:35:45,912] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:35:45,944] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 09:35:45,947] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 09:35:49,193] INFO tasks.api Logout request by user_id=8
+[2025-12-29 09:35:49,207] INFO tasks.api Logout successful
+[2025-12-29 09:35:49,276] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:35:51,000] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:36:57,762] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:37:01,507] WARNING django.request Forbidden: /api/auth/logout/
+[2025-12-29 09:38:32,022] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:38:37,098] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:39:45,333] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:40:01,552] INFO tasks.api Register attempt for username=random
+[2025-12-29 09:40:02,679] INFO tasks.api User registered successfully
+[2025-12-29 09:40:02,743] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:40:16,709] INFO tasks.api Login attempt for username=random
+[2025-12-29 09:40:17,895] INFO tasks.api Login successful for user_id=10
+[2025-12-29 09:40:17,978] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:40:18,007] INFO tasks.api Task list requested by user_id=10
+[2025-12-29 09:40:18,008] INFO tasks.api Returned 0 tasks for user_id=10
+[2025-12-29 09:40:25,170] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:42:48,952] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:43:04,926] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 09:43:11,414] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 10:02:30,596] INFO django.utils.autoreload Watching for file changes with StatReloader
+[2025-12-29 10:02:31,758] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 10:02:32,126] INFO tasks.api Task list requested by user_id=10
+[2025-12-29 10:02:32,128] INFO tasks.api Returned 0 tasks for user_id=10
+[2025-12-29 10:02:33,793] INFO tasks.api Logout request by user_id=10
+[2025-12-29 10:02:33,805] INFO tasks.api Logout successful
+[2025-12-29 10:02:33,884] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 10:02:35,959] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 10:02:45,625] INFO tasks.api Register attempt for username=test-user
+[2025-12-29 10:02:46,838] INFO tasks.api User registered successfully
+[2025-12-29 10:02:46,905] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 10:11:09,925] INFO tasks.api Login attempt for username=yo yo yo
+[2025-12-29 10:11:10,942] INFO tasks.api Login successful for user_id=8
+[2025-12-29 10:11:11,018] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 10:11:11,087] INFO tasks.api Task list requested by user_id=8
+[2025-12-29 10:11:11,088] INFO tasks.api Returned 3 tasks for user_id=8
+[2025-12-29 12:16:40,874] WARNING django.request Not Found: /.well-known/appspecific/com.chrome.devtools.json
+[2025-12-29 12:16:40,980] INFO tasks.api Fetch task_id=6f90b19c-8819-490e-9654-689edd7f8f27 by user_id=8
+[2025-12-29 12:16:40,983] INFO tasks.api Task fetched successfully task_id=6f90b19c-8819-490e-9654-689edd7f8f27
+[2025-12-29 12:17:11,964] INFO django.utils.autoreload C:\Users\shubhashish\OneDrive\Desktop\to_do_app\task_manager\tasks\api.py changed, reloading.
+[2025-12-29 12:17:13,635] INFO django.utils.autoreload Watching for file changes with StatReloader
